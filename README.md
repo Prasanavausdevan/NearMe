@@ -192,13 +192,20 @@ thuraiyur.html
 ```
 
 
+
 ## OUTPUT
-![Alt text](map.png)
-![Alt text](A.png)
-![Alt text](C.png)
-![Alt text](D.png)
-![Alt text](E.png)
-![Alt text](B.png)
+![map](https://github.com/Prasanavausdevan/NearMe/assets/144870579/a3345fda-915c-45da-92ec-ad68c8d9f788)
+![A](https://github.com/Prasanavausdevan/NearMe/assets/144870579/efc0e3f0-e378-4ac2-b009-002c348f153d)
+![B](https://github.com/Prasanavausdevan/NearMe/assets/144870579/d4ec3642-d09c-4549-972d-5721178c808d)
+![C](https://github.com/Prasanavausdevan/NearMe/assets/144870579/0d976fd6-0e0a-42d0-ac00-70eafe3b6ff4)
+![D](https://github.com/Prasanavausdevan/NearMe/assets/144870579/2910b15f-a14d-453d-96d1-44085ce92d87)
+![E](https://github.com/Prasanavausdevan/NearMe/assets/144870579/5569b726-a457-49cb-9cee-5fd5a682123a)
+
+
+
+
+
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
