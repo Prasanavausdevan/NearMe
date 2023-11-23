@@ -93,7 +93,7 @@ thuraiyur.html
             <font color="fushsia"><b>keerambur</b></font>
         </h1>
         <h3 align="center">
-            <font color="blue"><b>Keerambur - My Home Town</b></font>
+            <font color="blue"><b>Keerambur - Neighbouring village</b></font>
         </h3>
         <hr size="3" color="red">
         <p align="justify">
@@ -113,14 +113,14 @@ thuraiyur.html
 
         <html>
     <head>
-        <title>chokkanatgapura</title>
+        <title>chokkanatgapuram</title>
     </head>
     <body bgcolor="green">
         <h1 align="center">
             <font color="aqua"><b>chokkanatgapura</b></font>
         </h1>
         <h3 align="center">
-            <font color="blue"><b>chokkanatgapuram</b></font>
+            <font color="blue"><b>chokkanatgapuram- Neighbouring village<</b></font>
         </h3>
         <hr size="3" color="black">
         <p align="justify">
@@ -146,7 +146,7 @@ thuraiyur.html
             <font color="teal"><b>nagalapuram</b></font>
         </h1>
         <h3 align="center">
-            <font color="blue"><b>nagalapuram</b></font>
+            <font color="blue"><b>nagalapuram- Neighbouring village<</b></font>
         </h3>
         <hr size="3" color="pink">
         <p align="justify">
@@ -174,7 +174,7 @@ thuraiyur.html
             <font color="red"><b>murugur</b></font>
         </h1>
         <h3 align="center">
-            <font color="blue"><b>murugur</b></font>
+            <font color="blue"><b>murugur- Neighbouring village<</b></font>
         </h3>
         <hr size="3" color="black">
         <p align="justify">
